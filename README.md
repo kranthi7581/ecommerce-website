@@ -7,11 +7,11 @@ This project focuses on UI design, layout structuring, and responsiveness withou
 https://ecommerce-website-dusky-iota.vercel.app
 
 📷 Preview
-![Alt Text]()
+![Alt Text](https://github.com/kranthi7581/ecommerce-website/blob/main/Ecoweb/main.png)
 
-![Alt Text]()
+![Alt Text](https://github.com/kranthi7581/ecommerce-website/blob/main/Ecoweb/foot.png)
 
-![Alt Text]()
+![Alt Text](https://github.com/kranthi7581/ecommerce-website/blob/main/Ecoweb/sidebar.png)
 
 🚀 Features
 Fully responsive design
